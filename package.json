@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/Satoru-cmd/TypeScript#readme",
   "devDependencies": {
+    "@types/node": "^16.7.10",
+    "ts-node": "^10.2.1",
     "typescript": "^4.4.2"
   }
 }
