@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Satoru-cmd/TypeScript/issues"
   },
-  "homepage": "https://github.com/Satoru-cmd/TypeScript#readme"
+  "homepage": "https://github.com/Satoru-cmd/TypeScript#readme",
+  "devDependencies": {
+    "typescript": "^4.4.2"
+  }
 }
